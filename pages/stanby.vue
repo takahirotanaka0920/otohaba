@@ -112,6 +112,7 @@ export default {
     },
     restart: function() {
       this.message = 'root'
+      this.description = '音を聞いてみよう'
     }
   }
 }
