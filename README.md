@@ -1,6 +1,6 @@
 # otohaba
 
-> My primo Nuxt.js project
+> The game for understanging intervals in music.
 
 ## Build Setup
 
