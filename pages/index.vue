@@ -2,9 +2,9 @@
   <div class="container">
     <div>
       <logo />
-      <h1 class="title">
+      <h2 class="title">
         otohaba
-      </h1>
+      </h2>
       <h2 class="subtitle">
         音感を鍛えよう
       </h2>
@@ -41,8 +41,8 @@ export default {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 300;
-  font-size: 100px;
+  font-weight: 270;
+  font-size: 80px;
   color: #35495e;
   letter-spacing: 1px;
 }
