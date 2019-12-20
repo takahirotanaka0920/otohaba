@@ -8,6 +8,9 @@
       <h2 class="subtitle">
         音感を鍛えよう
       </h2>
+      <p class="notice">
+        ※スピーカーをオンにしてください
+      </p>
       <div class="links">
         <nuxt-link to="/stanby" class="button--grey">
           スタート
@@ -57,5 +60,9 @@ export default {
 
 .links {
   padding-top: 15px;
+}
+
+.notice {
+  font-size: 5px;
 }
 </style>
